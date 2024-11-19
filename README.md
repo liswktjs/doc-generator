@@ -38,3 +38,19 @@ npm run docs "./src/test/sample.tsx" "sample description"
 - 이 라이브러리는 chat gpt api key를 제공하지 않습니다. 개인의 chat gpt api key를 발급받아 사용해주세요
 - prompt 혹은 문서의 format을 수정하고 싶으시다면, ai 폴더하위의 prompt.ts에서 수정을 해주세요. 수정 후에는 다시 빌드 하여 사용하여야 합니다
 - chat gpt 의 `gpt-4o-mini` 모델을 활용합니다.
+
+
+## 시연 영상 
+
+- script 명령어 입력
+
+
+https://github.com/user-attachments/assets/2fa40cc5-a414-4184-9bbd-0cd3cc509c8a
+
+
+- 문서 생성
+
+  
+
+https://github.com/user-attachments/assets/f433ebfb-0fac-4756-96f2-6f0239daee7a
+
