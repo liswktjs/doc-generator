@@ -1,6 +1,6 @@
 {
   "name": "sun-doc-generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/index.cjs.js",
   "type": "commonjs",
   "scripts": {
